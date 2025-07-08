@@ -13,7 +13,7 @@ This project demonstrates how to deploy a simple web application using **Nginx**
 
 ## 🖼️ Architecture
 
-![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshot/diagram-export-7-8-2025-2_56_23-PM.png?raw=true)
+![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshots/diagram-export-7-8-2025-2_56_23-PM.png?raw=true)
 
 ## 🚀 Getting Started
 
@@ -49,8 +49,8 @@ Visit the app at: [http://Localhost:80]
 
 ## 🖥️ Screenshot
 
-![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshot/Screenshot%202025-07-08%20142633.png?raw=true)
-![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshot/Screenshot%202025-07-08%20142319.png?raw=true)
+![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshots/Screenshot%202025-07-08%20142633.png?raw=true)
+![Image Alt](https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql/blob/main/Screenshots/Screenshot%202025-07-08%20142319.png?raw=true)
 ---
 
 ## 🎯 Features
