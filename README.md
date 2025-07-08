@@ -25,7 +25,7 @@ This project demonstrates how to deploy a simple web application using **Nginx**
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql-.git
+git clone https://github.com/Dineshborse1997/Notes-App-Nginx-and-Mysql.git
 cd Notes-App-Nginx-and-Mysql
 ```
 ### ▶️ Start the Application
